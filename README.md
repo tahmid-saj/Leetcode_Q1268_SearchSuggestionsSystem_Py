@@ -1,0 +1,1 @@
+# Leetcode_Q1268_SearchSuggestionsSystem_Py
